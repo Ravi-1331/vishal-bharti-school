@@ -1,4 +1,4 @@
-<h1>The Air Force School Website</h1>
+<h1>Vishal Bharti School</h1>
 <hr><p>Made this website as a task for a club.</p><h2>General Information</h2>
 <hr><ul>
 <li>This is a single page website that accounts for major tasks such as announcements and time table for a school website.</li>
@@ -18,9 +18,7 @@
 </ul><ul>
 <li>Clean UI</li>
 </ul><h2>Screenshots</h2>
-<hr><p><img src="readme/1.jpg" alt=""></p><p><img src="readme/2.jpg" alt=""></p><p><img src="readme/3.jpg" alt=""></p><h2>Setup</h2>
-<hr><p>Download the repository and open index.html in the browser.</p><h5>Steps</h5><ul>
-<li><code>git clone https://github.com/TartejBrothers/The-Air-Force-School.git</code></li>
+<hr><p><img src="readme/1.jpg" alt=""></p><p><img src="readme/2.jpg" alt=""></p><p><img src="readme/3.jpg" alt=""></p>
 </ul><ul>
 <li><code>cd the-air-force-school-main</code></li>
 
