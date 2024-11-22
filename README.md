@@ -19,10 +19,7 @@
 <li>Clean UI</li>
 </ul><h2>Screenshots</h2>
 <hr><p><img src="readme/1.jpg" alt=""></p><p><img src="readme/2.jpg" alt=""></p><p><img src="readme/3.jpg" alt=""></p>
-</ul><ul>
-<li><code>cd the-air-force-school-main</code></li>
-
-</ul>
+</ul
 <h2>Project Status</h2>
 <hr><p>The website is ready and hosted <a href="https://theairforceschool.web.app/">here</a></p><h2>Improvements</h2>
 <hr><ul>
